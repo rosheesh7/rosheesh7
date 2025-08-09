@@ -45,7 +45,8 @@ If you have any opportunities or ideas, feel free to reach out!
 - **Email:**  rosissharma87@gmail.com 
 - **LinkedIn:** [linkedin.com/in/Rosis Sharma](https://linkedin.com/in/rosis-sharma207)  
 - **GitHub:** [github.com/rosheesh7](https://github.com/rosheesh7)
-- **Instagram:** @rosis7
+- **Instagram:** [instagram.com/_rosis7](https://www.instagram.com/_rosis7)
+  
 
 ---
 
