@@ -1,27 +1,52 @@
-<h1 align="center">Hi 👋, I'm Rosis Sharma</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
+# Hi there, I'm Rosis Sharma 👋
 
-<p align="left"> <a href="https://twitter.com/rosish" target="blank"><img src="https://img.shields.io/twitter/follow/rosish?logo=twitter&style=for-the-badge" alt="rosish" /></a> </p>
+## About Me
+I'm a passionate JavaScript developer based in Nepal, focused on building clean, interactive web apps using React.js. I've worked on projects like Hangman games, expense trackers, and more.  
+Currently, I'm deepening my React skills and building larger projects to solidify my frontend expertise.
 
-- 🔭 I’m currently working on **Typing Test**
+---
 
-- 🌱 I’m currently learning **Python for Data Science**
+## 🛠 Skills
 
-- 💬 Ask me about **React, Javascript, etc**
+- **Frontend:** JavaScript, React.js (Hooks, Router, Context API), HTML5, CSS3  
+- **Backend (Learning):** Python, Flask, FastAPI  
+- **Tools:** Git, GitHub, VSCode, Postman, REST APIs  
 
-- 📫 How to reach me **rosissharma87@gmail.com**
+---
 
-- ⚡ Fun fact **I am a musician as well. Haha!**
+## 🚀 Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rosish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rosish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/rosis-sharma207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rosis-sharma207" height="30" width="40" /></a>
-<a href="https://fb.com/rosis sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rosis sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/@rosis7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rosis7" height="30" width="40" /></a>
-</p>
+- [Hangman Game](#) – A fun word guessing game built with React.  
+- [Expense Tracker](#) – Track your income and expenses with a clean React UI.  
+- Typing Game (under development) – A typing speed and accuracy test game built with React.  
+- *More projects coming soon as I expand my skills!*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosheesh7&show_icons=true&locale=en&layout=compact" alt="rosheesh7" /></p>
+## 🎯 Future Goals
+
+- Learn Python thoroughly and start exploring Data Science and Machine Learning.  
+- Build full-stack AI-powered applications combining React and Python backends.  
+- Participate in open-source projects and Kaggle competitions.  
+- Land a role as a full-stack developer with AI/ML expertise.
+
+---
+
+## 🤝 I’m Open To Work!
+
+I'm based in Nepal and open to remote work opportunities worldwide.  
+I’m actively looking for roles or projects where I can apply my React skills and continue growing as a developer.  
+If you have any opportunities or ideas, feel free to reach out!
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:**  rosissharma87@gmail.com 
+- **LinkedIn:** [linkedin.com/in/Rosis Sharma](https://linkedin.com/in/rosis-sharma207)  
+- **GitHub:** [github.com/rosheesh7](https://github.com/rosheesh7)
+- **Instagram:** @rosis7
+
+---
+
+Thanks for stopping by! Let’s connect and build something awesome 🚀
