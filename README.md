@@ -8,7 +8,7 @@ Currently, I'm deepening my React skills and building larger projects to solidif
 
 ## 🛠 Skills
 
-- **Frontend:** JavaScript, React.js (Hooks, Router, Context API), HTML5, CSS3  
+- **Frontend:** JavaScript, React.js, HTML5, CSS3  
 - **Backend (Learning):** Python, Flask, FastAPI  
 - **Tools:** Git, GitHub, VSCode, Postman, REST APIs  
 
